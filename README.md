@@ -1,2 +1,2 @@
 Simply type in console:
-npm run init && npm run watch:all
+npm install && npm run init && npm run watch:all
